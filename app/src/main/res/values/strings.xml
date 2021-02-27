@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">"IMC Calculator"</string>
+    <string name="awesomeQuestion">"Welcome. Do you think I'm awesome?"</string>
+    <string name="yourWeight">"Your weight in kg"</string>
+    <string name="yourHeight">"Your height in cm"</string>
+</resources>
